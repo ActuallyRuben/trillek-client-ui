@@ -13,6 +13,7 @@ define(function (require) {
 		nl: require('./nl'),
 		da: require('./da'),
 		sv: require('./sv'),
+		ja: require('./ja'),
 		ru: require('./ru')
 	};
 

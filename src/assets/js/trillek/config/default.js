@@ -7,6 +7,7 @@ define({
 			nl: 'nederlands',
 			da: 'dansk',
 			sv: 'svenska',
+			ja: '日本語',
 			ru: 'русский'
 		}
 	},

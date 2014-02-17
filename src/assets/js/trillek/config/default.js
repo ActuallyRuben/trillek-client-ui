@@ -9,7 +9,7 @@ define({
 			sv: 'svenska',
 			ja: '日本語',
 			ru: 'русский',
-			ru: 'español'
+			es: 'español'
 		}
 	},
 	routes: {

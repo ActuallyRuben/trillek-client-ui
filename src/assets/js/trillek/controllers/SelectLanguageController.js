@@ -10,7 +10,7 @@ define(function () {
 	 */
 	function SelectLanguageController($scope, config, $translate, $location) {
 		$scope.availableLanguages = config.i18n.availableLanguages;
-		$scope.setLanguage = $translate.uses;
+		$scope.setLanguage = $translate.use;
 		$scope.done = function () {
 			$location.path(config.routes.mainMenu);
 		};

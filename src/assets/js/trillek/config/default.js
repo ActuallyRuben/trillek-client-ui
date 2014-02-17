@@ -8,7 +8,8 @@ define({
 			da: 'dansk',
 			sv: 'svenska',
 			ja: '日本語',
-			ru: 'русский'
+			ru: 'русский',
+			ru: 'español'
 		}
 	},
 	routes: {

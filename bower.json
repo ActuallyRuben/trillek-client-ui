@@ -15,7 +15,6 @@
   },
   "resolutions": {
     "angular": "1.2.13",
-    "angular-translate": "2.0.0",
-    "angular-translate-storage-cookie": "~2.0.0"
+    "angular-translate": "2.0.0"
   }
 }

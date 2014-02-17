@@ -6,3 +6,4 @@ dist/
 doc/
 _SpecRunner.html
 .grunt
+.bower

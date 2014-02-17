@@ -14,7 +14,7 @@ define(function (require) {
 		beforeEach(function () {
 			scope = {};
 			translate = {
-				uses: jasmine.createSpy('uses')
+				use: jasmine.createSpy('uses')
 			};
 			location = {
 				path: jasmine.createSpy('path')
@@ -37,7 +37,7 @@ define(function (require) {
 
 		it('attepts to set the language to the provided language code', function () {
 			scope.setLanguage('en');
-			expect(translate.uses).toHaveBeenCalledWith('en');
+			expect(translate.use).toHaveBeenCalledWith('en');
 		});
 
 		it('should have a done method that redirects to the main menu', function () {

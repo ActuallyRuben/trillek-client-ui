@@ -9,7 +9,8 @@ define({
 			sv: 'svenska',
 			ja: '日本語',
 			ru: 'русский',
-			es: 'español'
+			es: 'español',
+			de: 'deutsch'
 		}
 	},
 	routes: {

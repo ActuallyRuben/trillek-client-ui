@@ -15,7 +15,8 @@ define(function (require) {
 		sv: require('./sv'),
 		ja: require('./ja'),
 		ru: require('./ru'),
-		es: require('./es')
+		es: require('./es'),
+		de: require('./de')
 	};
 
 	return angular.module('trillek.i18n', ['pascalprecht.translate'])

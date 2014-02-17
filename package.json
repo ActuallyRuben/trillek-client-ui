@@ -9,17 +9,17 @@
     "test": "grunt test --verbose"
   },
   "dependencies": {
-    "grunt": "*",
-    "grunt-contrib-compass": "~0.7.2",
-    "grunt-contrib-requirejs": "*",
-    "grunt-contrib-compress": "~0.6.1",
-    "grunt-contrib-copy": "*",
-    "grunt-contrib-jshint": "*",
-    "grunt-contrib-imagemin": "~0.5.0",
-    "grunt-contrib-clean": "*",
-    "grunt-jsdoc": "*",
+    "grunt": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "grunt-contrib-compress": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-jsdoc": "latest",
     "grunt-contrib-jasmine": "~0.5.2",
-    "grunt-template-jasmine-requirejs": "~0.1.9",
-    "grunt-contrib-watch": "~0.5.3"
+    "grunt-template-jasmine-requirejs": "latest",
+    "grunt-contrib-watch": "latest"
   }
 }

@@ -1,21 +1,21 @@
 {
   "name": "trillek-ui",
   "dependencies": {
-    "requirejs": "~2.1.10",
-    "requirejs-text": "~2.0.10",
-    "angular": "~1.2.7",
-    "angular-route": "~1.2.8",
-    "angular-translate": "~1.1.1",
-    "lodash": "~2.4.1",
-    "jasmine": "~2.0.0",
-    "almond": "~0.2.6",
-    "angular-mocks": "~1.2.8",
-    "angular-translate-storage-local": "~0.1.6",
-    "angular-cookies": "~1.2.13",
-    "angular-translate-handler-log": "~1.1.0"
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-translate": "latest",
+    "lodash": "latest",
+    "almond": "latest",
+    "angular-mocks": "latest",
+    "angular-translate-storage-local": "latest",
+    "angular-cookies": "latest",
+    "angular-translate-handler-log": "latest"
   },
   "resolutions": {
-    "angular": "~1.2.7",
-    "angular-translate": "2.0.0"
+    "angular": "1.2.13",
+    "angular-translate": "2.0.0",
+    "angular-translate-storage-cookie": "~2.0.0"
   }
 }

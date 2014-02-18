@@ -9,7 +9,8 @@ module.exports = function (grunt) {
 		copy: {
 			main: {
 				expand: true,
-				src: './src/assets/images/raw/**',
+				cwd: 'src',
+				src: ['./assets/images/raw/**', './assets/fonts/**'],
 				dest: './build/'
 			}
 		},

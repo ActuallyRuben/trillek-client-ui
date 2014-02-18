@@ -12,9 +12,5 @@
     "angular-translate-storage-local": "latest",
     "angular-cookies": "latest",
     "angular-translate-handler-log": "latest"
-  },
-  "resolutions": {
-    "angular": "1.2.13",
-    "angular-translate": "2.0.0"
   }
 }

@@ -10,7 +10,8 @@ define({
 			ja: '日本語',
 			ru: 'русский',
 			es: 'español',
-			de: 'deutsch'
+			de: 'deutsch',
+			fr: 'français'
 		}
 	},
 	routes: {

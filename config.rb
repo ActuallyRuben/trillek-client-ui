@@ -3,13 +3,14 @@ require 'susy'
 require 'normalize'
 
 # Set this to the root of your project when deployed:
-http_path = '/'
+http_path = './'
 css_dir = 'build/assets/css'
 generated_images_dir = 'build/assets/sprites'
 sass_dir = 'src/assets/scss'
 images_dir = 'src/assets/images'
 javascripts_dir = 'src/assets/js'
 fonts_dir = 'src/assets/fonts'
+http_fonts_dir = './assets/fonts'
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
